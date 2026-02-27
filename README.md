@@ -31,4 +31,4 @@ I believe in **learning by building**. Complex systems are made of simple parts 
 
 ---
 
-<sub>*"Think twice, then act."* — Confucius</sub>
+<sub>  </sub>
