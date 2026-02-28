@@ -15,7 +15,7 @@ Associate Professor at [Zhejiang University](https://www.zju.edu.cn/english/), w
 
 | Course | Description |
 |--------|-------------|
-| [CS Math](https://github.com/hongxin/csmath-2019) | Mathematics for first-year CS PhD students @ ZJU |
+| [CS Math](https://github.com/hongxin/CSMATH) | Mathematics for first-year CS PhD students @ ZJU |
 | [CG Course](https://github.com/hongxin/CGCourse) | Computer Graphics @ ZJU |
 
 ### Philosophy
