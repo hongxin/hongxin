@@ -5,7 +5,7 @@
 Associate Professor at [Zhejiang University](https://www.zju.edu.cn/english/), working on Computer Graphics, Visualization, and AI-assisted Development.
 
 ### What I'm Building
-
+- **[JetBot](https://github.com/hongxin/JetBot)** — Browser-based AI coding assistant with agentic loop, 10 tools, 18 skills, and a force-directed Cosmos visualization. Zero install, zero deploy. [Live Demo](https://hongxin.github.io/JetBot/)
 - **[Build Your Own X](https://github.com/hongxin/build-your-own-x)** — Single-file HTML projects built from scratch: Tetris (Human/AI), Raycaster Maze, Weather Clock, Data Dashboard, and more
 - **[ZPower](https://github.com/hongxin/build-your-own-x/tree/main/skills)** — A Five Elements (五行) skill framework for AI-assisted development with Claude Code
 - **[VizModeling](https://github.com/hongxin/vizmodeling)** — A short course on visual modeling
