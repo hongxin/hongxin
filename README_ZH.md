@@ -5,7 +5,7 @@
 [浙江大学](https://www.zju.edu.cn/)副教授，研究方向为计算机图形学、可视化与 AI 辅助开发。
 
 ### 正在做的事
-
+- **[JetBot](https://github.com/hongxin/JetBot)** — 浏览器端 AI 编程助手，内置自主工具循环、10 种工具、18项技能，以及力引导宇宙视图。零安装，零部署。
 - **[Build Your Own X](https://github.com/hongxin/build-your-own-x)** — 从零开始的单文件 HTML 项目集：俄罗斯方块（人类/AI）、光线投射迷宫、天气时钟、数据大屏等
 - **[ZPower 五行技能系统](https://github.com/hongxin/build-your-own-x/tree/main/skills)** — 为 Claude Code 设计的五行 AI 辅助开发框架
 - **[VizModeling](https://github.com/hongxin/vizmodeling)** — 可视化建模短期课程
