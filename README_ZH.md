@@ -6,6 +6,8 @@
 
 ### 正在做的事
 - **[JetBot](https://github.com/hongxin/JetBot)** — 浏览器端 AI 编程助手，内置自主工具循环、10 种工具、18项技能，以及力引导宇宙视图。零安装，零部署。
+- **[tvision](https://github.com/hongxin/dsh-tvision)** — 给 DeepSeek Harness 智能体的字符型窗口管理器：带投影的重叠窗口、Borland 菜单栏、功能键提示条、鼠标拖拽——把 Turbo C 时代的 IDE 带回 AI 智能体时代，就跑在你的终端里。
+  <img src="https://raw.githubusercontent.com/hongxin/dsh-tvision/main/docs/screenshots/tvision.png" width="540" alt="tvision——Borland 蓝字符桌面：智能体对话与项目、任务窗口">
 - **[Build Your Own X](https://github.com/hongxin/build-your-own-x)** — 从零开始的单文件 HTML 项目集：俄罗斯方块（人类/AI）、光线投射迷宫、天气时钟、数据大屏等
 - **[ZPower 五行技能系统](https://github.com/hongxin/build-your-own-x/tree/main/skills)** — 为 Claude Code 设计的五行 AI 辅助开发框架
 - **[VizModeling](https://github.com/hongxin/vizmodeling)** — 可视化建模短期课程
