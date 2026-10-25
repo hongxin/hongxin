@@ -4,8 +4,30 @@
 
 Associate Professor at [Zhejiang University](https://www.zju.edu.cn/english/), working on Computer Graphics, Visualization, and AI-assisted Development.
 
-### What I'm Building
-- **[JetBot](https://github.com/hongxin/JetBot)** — Browser-based AI coding assistant with agentic loop, 10 tools, 18 skills, and a force-directed Cosmos visualization. Zero install, zero deploy. [Live Demo](https://hongxin.github.io/JetBot/)
+### ⭐ Flagship Project
+
+**[Tim Harness](https://github.com/hongxin/tim-harness)** — A full LLM engineering harness that lives in a single browser page. Multi-turn tool calling (19 tools), virtual file system (OPFS), code sandbox (Web Worker), sub-agent delegation, and goal-driven autopilot — zero backend, zero install.
+
+🔥 **Key highlights:**
+- **Extreme Token Economy** — 5-layer cost defense: prefix caching (84-90% measured savings on DeepSeek), incremental compression, view folding, cost tiers
+- **4 Visualization Modes** — 💬 Chat / 🌌 Cosmos (3D force-directed) / 🏭 Assembly Line (orthogonal routing + progressive disclosure) / ⚔️ Battlefield (Three.js RTS-style)
+- **Free to Start** — Preconfigured Google Gemini (free tier) & OpenRouter free models
+- **Portable Core** — 160 assertions in pure Node, targeting WeChat Mini Program
+
+🌐 **[Live Demo — open and start, zero install](https://hongxin.github.io/tim-harness/)** (bring your own API key, free tier available)
+
+<details>
+<summary><b>Also: JetBot — the predecessor that inspired Tim Harness</b></summary>
+
+**[JetBot](https://github.com/hongxin/JetBot)** — Browser-based AI coding assistant with agentic loop, 10 tools, 18 skills, and a force-directed Cosmos visualization. Zero install, zero deploy.
+
+🌐 **[Live Demo](https://hongxin.github.io/JetBot/)**
+
+JetBot proved the concept; Tim Harness evolved it with hexagonal architecture, token economy, multi-model routing, and multi-modal visualization.
+
+</details>
+
+### Other Projects
 - **[tvision](https://github.com/hongxin/dsh-tvision)** — A character-cell window manager for DeepSeek Harness agents: overlapping windows with drop shadows, a Borland menu bar, a function-key strip, and mouse drag — the Turbo C IDE reborn for the AI-agent era, in your terminal.
   <img src="https://raw.githubusercontent.com/hongxin/dsh-tvision/main/docs/screenshots/tvision.png" width="540" alt="tvision — a Borland-blue character-cell desktop with an agent conversation plus project and task windows">
 - **[Build Your Own X](https://github.com/hongxin/build-your-own-x)** — Single-file HTML projects built from scratch: Tetris (Human/AI), Raycaster Maze, Weather Clock, Data Dashboard, and more
